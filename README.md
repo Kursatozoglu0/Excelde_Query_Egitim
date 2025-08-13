@@ -1,0 +1,2 @@
+# Excelde_Query_Egitim
+Excelde_Query_Egitim
